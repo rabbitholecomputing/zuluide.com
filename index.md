@@ -13,4 +13,4 @@ ZuluIDE™ is a IDE computer storage emulation platform, where CD-ROM drive imag
 The ZuluIDE™ firmware is derived from two sources, both under GPL 3 license:
 
 * [SCSI2SD V6](http://www.codesrc.com/gitweb/index.cgi?p=SCSI2SD-V6.git;a=summary)
-* [ZuluIDE](https://github.com/zuluscsi/ZuluSCSI-firmware)
+* [ZuluSCSI](https://github.com/zuluscsi/ZuluSCSI-firmware)
