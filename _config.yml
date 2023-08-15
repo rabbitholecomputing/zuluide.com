@@ -26,7 +26,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: "assets/img/ZuluIDE-Logo-transparent-1280x461.png"
+title-img: "assets/img/ZuluIDE-Logo-1280x461.png"
 
 # Analytics
 # gtag: "G-PDTWTJ35PP"
