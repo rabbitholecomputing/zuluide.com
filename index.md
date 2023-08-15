@@ -1,5 +1,5 @@
 <img src="assets/img/ZuluIDE-Logo-1280x461.png" alt="ZuluIDE Compact RP2040 PCB">
-<img src="assets/img/ZuluIDE-RP2040-Compact-Rev2023d.jpg" alt="ZuluIDE Compact RP2040 PCB" width="733" height="770">
+<img src="assets/img/ZuluIDE-RP2040-Compact-Rev2023d.jpg" alt="ZuluIDE Compact RP2040 PCB">
 
 
 ZuluIDE™ is a IDE computer storage emulation platform, where CD-ROM drive images are stored on a standard FAT32 or exFAT-formatted SD card.
