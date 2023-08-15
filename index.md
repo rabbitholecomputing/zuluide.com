@@ -1,4 +1,3 @@
-<img src="assets/img/ZuluIDE-Logo-1280x461.png" alt="ZuluIDE Compact RP2040 PCB">
 <img src="assets/img/ZuluIDE-RP2040-Compact-Rev2023d.jpg" alt="ZuluIDE Compact RP2040 PCB">
 
 
