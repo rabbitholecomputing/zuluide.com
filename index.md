@@ -7,7 +7,7 @@ ZuluIDE™ is a IDE computer storage emulation platform, where CD-ROM drive imag
 
 * Emulates IDE/ATAPI CD-ROM drives of any size.
 * Emulates ZIP100 ATAPI removable media.
-* [Open-source firmware](https://github.com/zuluIDE/zuluIDE-firmware), licensed under the GPLv3
+* [Open-source firmware](https://github.com/rabbitholecomputing/zuluIDE-firmware), licensed under the GPLv3
 
 #### Firmware origins
 
