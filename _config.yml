@@ -12,8 +12,8 @@ navbar-links:
   About ZuluIDE: "aboutzulu"
   Where to Buy: "wheretobuy"
   Resources:
-#    - ZuluIDE Manual: "https://github.com/rabbitholecomputing/ZuluIDE-firmware/wiki/ZuluIDE-Manual"
- #   - ZuluIDE Firmware: "https://github.com/ZuluIDE/ZuluIDE-firmware"
+    - ZuluIDE Manual: "https://github.com/rabbitholecomputing/ZuluIDE-firmware/wiki/ZuluIDE-Manual"
+    - ZuluIDE Firmware: "https://github.com/ZuluIDE/ZuluIDE-firmware"
 
 # --- Logo --- #
 
@@ -36,7 +36,7 @@ title-img: "assets/img/ZuluIDE-Logo-1280x461.png"
 social-network-links:
 #  email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: ZuluIDE
+  facebook: Zulu-IDE
   github: ZuluIDE
   twitter: ZuluIDE
   youtube: channel/UC4J8yqXqBRM86t5Hl-TOTrA
