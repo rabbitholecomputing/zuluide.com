@@ -1,7 +1,7 @@
 <img src="assets/img/ZuluIDE-RP2040-Compact-Rev2024a.jpg" alt="ZuluIDE Compact RP2040 PCB">
 
 
-ZuluIDE™ is a IDE computer storage emulation platform, where CD-ROM drive images are stored on a standard FAT32 or exFAT-formatted SD card. SDXC cards of up to 512GB are supported.
+ZuluIDE™ is a hardware interface between IDE bus and SD cards. Currently it supports emulating ATAPI CD-ROM drives, Zip Drive 100, and a generic removable drive by providing access to image files stored on SD card. ISOs and bin/due files are stored on a standard FAT32 or exFAT-formatted SD card. SDXC cards of up to 512GB are supported.
 
 ## Features
 
