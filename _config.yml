@@ -13,7 +13,7 @@ navbar-links:
   Where to Buy: "wheretobuy"
   Resources:
     - ZuluIDE Manual: "https://github.com/rabbitholecomputing/ZuluIDE-firmware/wiki/ZuluIDE-Manual"
-    - ZuluIDE Firmware: "https://github.com/ZuluIDE/ZuluIDE-firmware"
+    - ZuluIDE Firmware: "https://github.com/ZuluIDE/ZuluIDE-firmware/releases"
 
 # --- Logo --- #
 
