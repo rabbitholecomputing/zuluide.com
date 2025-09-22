@@ -1,4 +1,4 @@
-<img src="assets/img/ZuluIDE-RP2040-Compact-Rev2024a.jpg" alt="ZuluIDE Compact RP2040 PCB">
+<img src="assets/img/ZuluIDE-V2-Compact-Rev2025a-front-iso-nobg.png" alt="ZuluIDE V2 Compact product photo">
 
 
 ZuluIDE™ is a hardware interface between IDE bus and SD cards. Currently it supports emulating ATAPI CD-ROM drives, Zip Drive 100, and a generic removable drive by providing access to image files stored on SD card. ISOs and bin/cue files are stored on a standard FAT32 or exFAT-formatted SD card. SDXC cards of up to 512GB are supported.
@@ -8,10 +8,4 @@ ZuluIDE™ is a hardware interface between IDE bus and SD cards. Currently it su
 * Emulates IDE/ATAPI CD-ROM drives of any size.
 * Emulates ZIP100 ATAPI removable media.
 * [Open-source firmware](https://github.com/rabbitholecomputing/zuluIDE-firmware), licensed under the GPLv3
-
-#### Firmware origins
-
-The ZuluIDE™ firmware is derived from two sources, both under GPL 3 license:
-
-* [SCSI2SD V6](https://github.com/rabbitholecomputing/SCSI2SD-V6-firmware-archive)
-* [ZuluSCSI](https://github.com/zuluscsi/ZuluSCSI-firmware)
+* Supported transfer modes: PIO 0,1,2,3, Ultra DMA 0,1 & ATA/33 (new with ZuluIDE V2) at up to 28 megabytes per second 
