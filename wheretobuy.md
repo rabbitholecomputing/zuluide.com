@@ -11,5 +11,5 @@
 
 * [Studio-Services](https://studio-services.de/produkt/zuluide)
 
-#### Belgium (EU)
+#### Belgium / European Union
 * [Serdashop](https://www.serdashop.com/ZuluIDE-V2)
