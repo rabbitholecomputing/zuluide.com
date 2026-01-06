@@ -12,7 +12,8 @@ ISOs and bin/cue files are stored on a standard FAT32 or exFAT-formatted SD card
 * Emulates ZIP100 ATAPI removable media
   * Compatible with Roland SP-808/808EX
 * Emulates rigid ATA/IDE hard drives (up to ATA/33)
- * Support for both raw (.bin/.hda/.hdf) and Virtual Hard Drive VHD (Version 1) image files
+  * Raw image files (.bin/.hda/.hdf)
+  * Virtual Hard Drive (VHD V1) image files
 * Hardware eject button and pin header for remote eject button
 * DIP switches for control of:
   * Primary/Seconday device selection
