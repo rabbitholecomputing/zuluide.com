@@ -1,14 +1,17 @@
 <img src="assets/img/ZuluIDE-V2-Compact-Rev2025a-front-iso-nobg.webp" alt="ZuluIDE V2 Compact product photo">
 
+ZuluIDE™ is a hardware interface between IDE bus and SD cards. Currently it supports emulating ATAPI CD-ROM drives, Zip Drive 100, and a generic removable drive by providing access to image files stored on SD card. 
 
-ZuluIDE™ is a hardware interface between IDE bus and SD cards. Currently it supports emulating ATAPI CD-ROM drives, Zip Drive 100, and a generic removable drive by providing access to image files stored on SD card. ISOs and bin/cue files are stored on a standard FAT32 or exFAT-formatted SD card. SDXC cards of up to 512GB are supported.
+ISOs and bin/cue files are stored on a standard FAT32 or exFAT-formatted SD card. SDXC cards of up to 512GB are supported.
 
 ## ZuluIDE Features
 
 * [Firmware-updateable](https://github.com/ZuluIDE/ZuluIDE-firmware/releases) - as simple as copying a file to your SD card
-* Emulates IDE/ATAPI CD-ROM drives of any size
-* Emulates ZIP100 ATAPI removable media
+* Emulates IDE/ATAPI CD-ROM drives of any size, including CD Audio playback emulation via optional DAC hat
+* Emulates ZIP100 ATAPI removable media (works with Roland SP-808/808EX)
 * Emulates rigid ATA/IDE hard drives, with support for both raw (.bin/.hda/.hdf) and Virtual Hard Drive VHD (Version 1) image files
+* Hardware eject button and pin header for remote eject button
+* Activity LED and pin header for remotely-mounted/front-panel LED
 * [Open-source firmware](https://github.com/rabbitholecomputing/zuluIDE-firmware), licensed under the GPLv3
 * Supported transfer modes:
   * [PIO modes](https://en.wikipedia.org/wiki/Programmed_input%E2%80%93output) 0-3
