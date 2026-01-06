@@ -15,7 +15,10 @@ ISOs and bin/cue files are stored on a standard FAT32 or exFAT-formatted SD card
  * Support for both raw (.bin/.hda/.hdf) and Virtual Hard Drive VHD (Version 1) image files
 * Hardware eject button and pin header for remote eject button
 * Activity LED and pin header for remotely-mounted/front-panel LED
-* Expansion header for optional web-based UI.
+* Expansion header for optional web-based UI
+* Qwiic 4-pin connector for hardware UI control board
+* Debug header for [Raspberry Pi Debug Probe
+]([url](https://www.raspberrypi.com/documentation/microcontrollers/debug-probe.html))
 * [Open-source firmware](https://github.com/rabbitholecomputing/zuluIDE-firmware), licensed under the GPLv3
 * Supported transfer modes:
   * [PIO modes](https://en.wikipedia.org/wiki/Programmed_input%E2%80%93output) 0-3
