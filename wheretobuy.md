@@ -1,8 +1,8 @@
 ##### Where to Buy ZuluIDE
 
 #### United States
-* [Rabbit Hole Computing (California)](https://shop.rabbitholecomputing.com/products/zuluide-rp2040-compact)
-* [eBay (via Rabbit Hole Computing)](https://www.ebay.com/itm/196591335717)
+* [Rabbit Hole Computing (California)](https://shop.rabbitholecomputing.com/collections/zuluide)
+* [eBay (via Rabbit Hole Computing)](https://www.ebay.com/itm/197709315976)
 
 #### United Kingdom
 * [AmigaKit](https://www.amigakit.com/zuluide-p-91339.html)
