@@ -1,6 +1,6 @@
 <img src="assets/img/ZuluIDE-V2-Compact-Rev2025a-front-iso-nobg.webp" alt="ZuluIDE V2 Compact product photo">
 
-ZuluIDE™ is a hardware interface between IDE bus and SD cards. Currently it supports emulating ATAPI CD-ROM drives, Zip Drive 100, and a generic removable drive by providing access to image files stored on SD card. 
+ZuluIDE™ is a hardware interface between IDE bus and SD cards. Currently it supports emulating ATAPI CD-ROM drives, Zip Drive 100, **rigid hard drives**, and a generic removable drive by providing access to image files stored on SD card. 
 
 ISOs and bin/cue files are stored on a standard FAT32 or exFAT-formatted SD card. SDXC cards of up to 512GB are supported.
 
