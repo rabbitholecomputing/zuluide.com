@@ -1,4 +1,4 @@
-<img src="assets/img/ZuluIDE-V2-Compact-Rev2025a-front-iso-nobg.webp" alt="ZuluIDE V2 Compact product photo">
+<img src="ZuluIDE-V2-2.5in-dual-Rev-2026a-topDown-with-CD-Audio-Header-web.jpg" alt="ZuluIDE V2 Hybrid (44-pin & 40-pin) product photo">
 
 ZuluIDE™ is a hardware interface between IDE bus and SD cards. Currently it supports emulating ATAPI CD-ROM drives, Zip Drive 100, **rigid hard drives**, and a generic removable drive by providing access to image files stored on SD card. 
 
